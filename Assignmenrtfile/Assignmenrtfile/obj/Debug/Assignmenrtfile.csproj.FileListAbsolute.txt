@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\bin\Debug\Assignmenrtfile.exe.config
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\bin\Debug\Assignmenrtfile.exe
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\bin\Debug\Assignmenrtfile.pdb
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\obj\Debug\Assignmenrtfile.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\obj\Debug\Assignmenrtfile.Form1.resources
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\obj\Debug\Assignmenrtfile.Properties.Resources.resources
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\obj\Debug\Assignmenrtfile.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\obj\Debug\Assignmenrtfile.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\obj\Debug\Assignmenrtfile.exe
+C:\Users\pc\Documents\Assignmenrtfile\Assignmenrtfile\obj\Debug\Assignmenrtfile.pdb

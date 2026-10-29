@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignmenrtfile", "Assignmenrtfile\Assignmenrtfile.csproj", "{580C4BC4-EB2B-443E-AE4D-38AEAD11A68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580C4BC4-EB2B-443E-AE4D-38AEAD11A68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580C4BC4-EB2B-443E-AE4D-38AEAD11A68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580C4BC4-EB2B-443E-AE4D-38AEAD11A68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580C4BC4-EB2B-443E-AE4D-38AEAD11A68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B7CF39-8098-4901-A0DA-FBA3E0BB0F68}
+	EndGlobalSection
+EndGlobal
